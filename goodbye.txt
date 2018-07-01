@@ -1,0 +1,2 @@
+print("goodbye");
+pirnt("godbye again");
