@@ -1,5 +1,6 @@
-print("hello world");
-print("test");
-print("hello");
-print("hello again");
-print("waaagh");
+rint("hello world;");
+print("test;");
+print("hello;");
+print("hello again;");
+print("waaagh;");
+
